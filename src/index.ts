@@ -16,6 +16,7 @@ import { ProcessPromise } from './core.js'
 
 export * from './core.js'
 export * from './goods.js'
+export * from './mrm-goods.js'
 
 export { Duration, quote, quotePowerShell } from './util.js'
 
